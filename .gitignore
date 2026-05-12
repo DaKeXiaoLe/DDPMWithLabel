@@ -5,8 +5,8 @@ save_weight/
 # 数据集
 CIFAR10/
 
-# 生成图像
-SampledImgs/
+# 生成图像（README 中引用的效果图，需要上传）
+# SampledImgs/
 
 # 视频文件
 *.mp4
