@@ -1,0 +1,22 @@
+# 模型权重
+save_weight/
+*.pt
+
+# 数据集
+CIFAR10/
+
+# 生成图像
+SampledImgs/
+
+# 视频文件
+*.mp4
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# IDE 配置
+.idea/
+
+# 演示脚本
+demo_*.py
